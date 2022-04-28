@@ -24,13 +24,5 @@ Here are some ideas to get you started:
     <a href="https://github-readme-streak-stats.herokuapp.com">
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunbiyani&theme=onedark&hide_border=true"/>
     </a>
-    <a><h2>Trophies</h2></a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=arjunbiyani&row=4&theme=onedark&no-frame=true"/>
-    </a>    
-    </a>
-    <a><h2>Twitter</h2></a>
-    <a href="https://github.com/lowlighter/metrics">
-        <img width="500" alt= "tweets" src="/tweets.svg"/>
-    </a>
+   
 </div>
