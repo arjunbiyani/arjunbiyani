@@ -15,12 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<a><h2>Stats</h2></a>
-<div>
-
-    <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunbiyani&theme=onedark&hide_border=true"/>
-    </a>
-   
-</div>
